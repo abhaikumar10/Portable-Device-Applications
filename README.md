@@ -5,8 +5,11 @@ Here is package of list of **apps and games** that you can enjoy.
 
 There are many projects around where you can enjoy thise legendary apps in it... Try out some.
 
-=> [KEmulator](https://archive.org/details/KEmulator103)
+=> [KEmulator (Portable- Windows PC)](https://archive.org/details/KEmulator103)
 
 => Find more: [Click to Search on Google](https://www.google.com/search?q=j2me+emulator)
 
 
+# Symbain apps 
+
+=> [EKA2L1: Andriod]([url](https://github.com/EKA2L1/EKA2L1))

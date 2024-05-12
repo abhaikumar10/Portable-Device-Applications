@@ -12,4 +12,4 @@ There are many projects around where you can enjoy thise legendary apps in it...
 
 # Symbain apps 
 
-=> [EKA2L1: Andriod]([url](https://github.com/EKA2L1/EKA2L1))
+=> [EKA2L1: Andriod](https://github.com/EKA2L1/EKA2L1)
